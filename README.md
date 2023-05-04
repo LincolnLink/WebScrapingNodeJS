@@ -2,6 +2,10 @@
 
  - Uma tentativa de criar um Web Scraping com Node JS
 
+ - Fonte: https://www.youtube.com/watch?v=xianIw6PleE&t=900s
+
+ - Canal do professor: https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA
+
 # libs
 
  - Express (BackEnd).
